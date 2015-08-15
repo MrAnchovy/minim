@@ -1,2 +1,0 @@
-# minim
-Minim public site
